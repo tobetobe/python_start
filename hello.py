@@ -19,3 +19,8 @@ def printHello():
 # list = [v*2 for v in range(1, 10)]
 
 # print(list)
+
+list = ['aa', 'b', 'c']
+
+for v in list:
+    print(v.title())
