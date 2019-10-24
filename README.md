@@ -17,3 +17,14 @@ list = []
   - 临时排序
 - list.reverse()
 - 列表解析
+
+
+## dict
+dict = {}
+
+- dict.items() 
+    return item, index
+- dict.keys()
+    return key list
+- dict.values()
+    return value list

@@ -24,3 +24,17 @@ list = ['aa', 'b', 'c']
 
 for v in list:
     print(v.title())
+# a = [1]
+
+# if a:
+#     print(a)
+# b = a
+# print(b)
+
+# b.append(2)
+# print(a, b)
+
+# b = []
+# print(bool(b))
+# if b:
+#     print(b)
